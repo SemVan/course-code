@@ -17,7 +17,7 @@
 Если вы умеете работать с Git:
 
 ```bash
-git clone <ссылка на репозиторий>
+git clone https://github.com/SemVan/course-code.git
 cd course-code
 ```
 
