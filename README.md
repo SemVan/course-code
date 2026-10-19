@@ -12,14 +12,11 @@
 
 ## Как скачать
 
-Для простого варианта нажмите **Code → Download ZIP**, распакуйте архив и откройте полученную папку.
-
-Если вы умеете работать с Git:
-
-```bash
-git clone https://github.com/SemVan/course-code.git
-cd course-code
-```
+1. Откройте страницу репозитория: [github.com/SemVan/course-code](https://github.com/SemVan/course-code).
+2. Нажмите зелёную кнопку **Code**.
+3. Выберите **Download ZIP**.
+4. Откройте папку «Загрузки» и распакуйте скачанный ZIP-файл.
+5. Откройте распакованную папку `course-code-main`. Не запускайте notebooks непосредственно из ZIP-архива.
 
 ## Как запустить
 
